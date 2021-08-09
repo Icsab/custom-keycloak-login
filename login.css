@@ -1,1 +1,10 @@
-
+#kc-form-wrapper{display:none;}
+#kc-social-providers{
+	border-left: 0;
+    max-width: 100%;
+    width: 100%;
+    padding-left: 0;
+}
+.login-pf-page .login-pf-accounts{max-width:420px;}
+.login-pf-social-link{position:relative;}
+.zocial.linkedin:before{position:absolute; left:0; top:0;}
